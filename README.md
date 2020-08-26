@@ -2,7 +2,7 @@
 
 This is my version of a README generator.  This is a command-line app allows the user to generate a thorough README.md to minimize time creating the README in order to spend more time working on the actual project.  This app dynamically creates the file using node.js and ES6+.  JavaScript and JSON are also used.  This application is invoked with the following command: node index.js.
 
-## GIF of README.md functionality  
+## GIF of README.md functionality:   
 ![](ezgif.com-resize.gif)
 
 ## README.md generated from app:  
