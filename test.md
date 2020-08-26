@@ -13,11 +13,11 @@
   ## Installation
   To install the proper data dependencies, run the following command: npm install.
   ## Usage
-  To create awesome projects.
+  Awesome usage
   ## License
   This project is licensed under the MIT license.
   ## Contributing
-  Pirata Codex.
+  Pirata Codex
   ## Tests
   Run the following command to run tests: npm run tests.
   ## Questions
